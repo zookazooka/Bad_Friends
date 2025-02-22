@@ -1,4 +1,4 @@
-Bad_Friends Compiler
+Bad_Friends Compiler Assessment
 =======
 2024/25 Compilers Coursework
 ==============================
