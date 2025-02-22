@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Bad_Friends
 Bad_Friends Compiler
 =======
 2024/25 Compilers Coursework
